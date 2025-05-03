@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
+}
+
+h1,
+h2 {
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+}
+
+h1,
+h2,
+p {
+    margin: 20px;
+    padding: 10px;
+}
+
+section {
+    border: 1px solid ghostwhite;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+* {
+    box-sizing: border-box;
+}
